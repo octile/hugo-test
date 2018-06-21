@@ -1,0 +1,4 @@
++++
+copy = "## Field validation\nCreating validation rules at the field level ensures that information is handled consistently. An example of why this is important is that you could prevent malformed data from crashing an application in production.\n\nSome other common validation rules for fields include character limits and enforcing specific values, such as `Beginner`, `Intermediate`, or `Advanced`. The following resources have a complete list of fields and available field validations:\n\n- [Fields](https://www.contentful.com/developers/docs/concepts/data-model/#fields)\n- [Available validations](https://www.contentful.com/r/knowledgebase/validations/#available-validations)\n\n![Screenshot: web app validations](//images.contentful.com/qz0n5cdakyl9/6n41KgxfwWmmeCiSemIsK2/8fe64869042e65dddb5178164bd2264f/validations.png)\n\n_The proceeding screenshot shows example validations within the Contentful web app._"
+title = "Content model > validation copy"
++++

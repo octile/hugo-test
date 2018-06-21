@@ -1,0 +1,5 @@
+baseURL = "https://hugo.3dhubs.com"
+languageCode = "en-us"
+title = "3D Hubs"
+theme = "ananke"
+Paginate = 12
